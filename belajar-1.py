@@ -1,6 +1,3 @@
-from typing import Mapping
-
-
 def belajar(): #fungsi
     masukan = int(input('\nMasukan nilai ujian : ')) # ini adalah variable input (integer)
     if masukan >= 90: # jika nilai input lebih dari atau sama dengan 90
